@@ -12,7 +12,7 @@ elif Operation == '-':
 elif Operation == '/':
     print("The division is: ",Division)
 elif Operation == '*':
-    print("The multiplication answer :", Multiplication)
+    print("The multiplication answer is :", Multiplication)
 else:
     print("Null operation value given")
 
