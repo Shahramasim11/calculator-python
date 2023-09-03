@@ -1,5 +1,5 @@
-Number1 = int(input("Enter first number: "))
-Number2 = int(input("Enter second number: "))
+Number1 = float(input("Enter first number: "))
+Number2 = float(input("Enter second number: "))
 Operation = str(input("Choose the operation to be performed '+' to add, '-' to subtract '/' to divide and '*' to multiply: "))
 Addition = Number1 + Number2
 Subtraction = Number1 - Number2
